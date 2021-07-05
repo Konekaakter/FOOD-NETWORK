@@ -1,9 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-section{
+.for-display{
     display:flex;
     margin: 0;
+    padding-bottom: 30px;
 }
 span{
     color:orange;
@@ -15,12 +16,14 @@ h1{
 .for-width{
     padding-top: 60px;
     padding-left: 130px;
+    width:50%
 }
 .my-img{
     padding-right: 150px;
+    width: 50%;
 }
 
-p{
+.for-size{
     padding-bottom: 40px;
     padding-right: 90px;
     font-size: 15px;
@@ -32,4 +35,21 @@ p{
     padding:10px 20px;
     color: white;
     font-weight:900;
+}
+.second-section-bg{
+    background-image: url(images/7.png);
+}
+.second-section-bg img{
+    padding-left: 170px;
+    padding-top: 50px;
+    width: 50%
+}
+#for-right{
+    padding-left: 100px;
+    padding-top: 110px;
+    padding-right: 200px;
+    width: 50%;
+}
+#button-padding{
+    padding-bottom: 40px;
 }
