@@ -7,7 +7,7 @@ body{
 span{
     color:orange;
 }
-h1{
+#h1-id{
     font-size: 50px;
     padding-top:20px;
 }
@@ -110,10 +110,19 @@ footer{
     text-align: center;
     background-color: black;
     height: 200px;
-    padding-bottom: 20px;
+    padding-top: 25px;
     margin-top: 50px;
 }
+
 footer p{
     color: white;
+}
+.gray{
+    color: gray;
+}
+.orange{
+    color: orange;
+}
+.last-padding{
 }
 
