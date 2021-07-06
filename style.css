@@ -57,3 +57,63 @@ h1{
 #button-padding{
     padding-bottom: 50px;
 }
+.center{
+    text-align: center;
+}
+.text-padding{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#repcipie{
+    padding-bottom: 30px;
+}
+.recipie-padding{
+    padding-top: 50px;
+
+}
+.recipie-box{
+    border:3px gray;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding:30px;
+    width:26%;
+}
+.size-box{
+    margin-top:80px;
+}
+.hours{
+    width:700px;
+    margin-left:10%;
+    background-color:rgb(83, 83, 83);
+    color: white;
+}
+.contact{
+    width:700px;
+    margin-right: 10%;
+    background-color:rgb(207, 207, 207);
+    color: black;
+    
+}
+.submit{
+    margin-left: 48px;
+    margin-top:10%;
+    text-decoration: none;
+    background-image: linear-gradient(black,gray);
+    border-radius: 25px;
+    padding:5px 15px;
+    color:white;
+    font-weight:900;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+footer p{
+    color: white;
+}
+
