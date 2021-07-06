@@ -3,8 +3,6 @@ body{
 }
 .for-display{
     display:flex;
-    margin: 0;
-    padding-bottom: 30px;
 }
 span{
     color:orange;
@@ -40,10 +38,12 @@ h1{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
 }
-.second-section-bg img{
+.second-section-img{
     padding-left: 170px;
-    padding-top: 20px;
+    padding-top:45px;
     width: 50%;
+    margin-top: 25px;
+    margin-bottom: -5px;
 }
 #for-right{
     padding-left: 100px;
@@ -51,6 +51,9 @@ h1{
     padding-right: 200px;
     width: 50%;
 }
+.about-title{
+    font-size:30px;
+}
 #button-padding{
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
