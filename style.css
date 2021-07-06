@@ -38,11 +38,12 @@ h1{
 }
 .second-section-bg{
     background-image: url(images/7.png);
+    background-repeat: no-repeat;
 }
 .second-section-bg img{
     padding-left: 170px;
-    padding-top: 50px;
-    width: 50%
+    padding-top: 20px;
+    width: 50%;
 }
 #for-right{
     padding-left: 100px;
